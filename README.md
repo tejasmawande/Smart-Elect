@@ -4,9 +4,14 @@ Description:Elections in India are carried out manually by conducting Polls whic
 	Problem arises when a new senti-word flashes into user comments ,the database might not have the senti-word to assign score.so this system is designed to calculate Score of the new senti-word and save that word to database.So every time a new word appears ,our system Automatically assigns new score to it and add the score to the existing database.This increases accuracy of the Sentiment analysis which is 81% as compared to existing system .
 	
 Algorithms Used:Opinion Verb and Senti-word ,Negation Handling,Stopword Elimination,Punctation Handling.
+
 Database: Mysql
+
 GUI:Netbeans Java
+
 Language:Java
+
 Java Library:Libraries to perform Connectivity between Java and Database
+
 Paper Published:Improving Probability of winning Elections(IJRASET)
 
