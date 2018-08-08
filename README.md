@@ -9,7 +9,7 @@ Database: Mysql
 
 GUI:Netbeans Java
 
-Language:Java
+Language:Java/JavaScript
 
 Java Library:Libraries to perform Connectivity between Java and Database
 
